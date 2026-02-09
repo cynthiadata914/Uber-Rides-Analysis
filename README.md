@@ -1,5 +1,4 @@
-# Project Title
-## Uber-Rides-Analysis
+# Uber-Rides-Analysis
 
 ## Goals
 Build an interactive Excel dashboard that converts Uber ride data into operational and performance insights to improve revenue, service reliability, and driver management decisions.
