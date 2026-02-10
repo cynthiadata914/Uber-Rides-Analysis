@@ -52,8 +52,8 @@ The following analyses were performed using Excel pivot tables, calculated metri
 - Interactive filtering and drill down.
 
 ## Dashboard preview
-![Uber rides overview](<img width="1312" height="751" alt="Uber rides overview" src="https://github.com/user-attachments/assets/36148c82-fe15-4bb7-a297-61435edd49ea" />)
-![Uber rides summary table](<img width="1253" height="732" alt="Uber rides summary table" src="https://github.com/user-attachments/assets/dac584e4-da4b-42af-88d3-4d5bdfd278d6" />)
+<img width="1312" height="751" alt="Uber rides overview" src="https://github.com/user-attachments/assets/36148c82-fe15-4bb7-a297-61435edd49ea" />
+<img width="1253" height="732" alt="Uber rides summary table" src="https://github.com/user-attachments/assets/dac584e4-da4b-42af-88d3-4d5bdfd278d6" />
 
 ## Key insights
 - Evening hours show the highest ride demand.
